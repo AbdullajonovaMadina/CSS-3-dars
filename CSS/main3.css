@@ -1,0 +1,98 @@
+.text-block{
+    background-color: pink;
+    width: 1200px;
+    margin: 200px auto;
+    text-align: center;
+    float: left;
+}
+.text-block-item{
+    background-color: white;
+    border: 1px solid black;
+    width: 30%;
+    height: 210px;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    float: left;
+    margin: 10px 20px;
+    text-align: center;
+    border-radius: 10%;
+    border-top: 5px solid red;
+}
+.text-block-item1{
+    background-color: white;
+    border: 1px solid black;
+    width: 30%;
+    height: 210px;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    float: left;
+    margin: 10px 20px;
+    text-align: center;
+    border-radius: 10%;
+    border-top: 5px solid darkblue;
+}
+.text-block-item2{
+    background-color: white;
+    border: 1px solid black;
+    width: 30%;
+    height: 210px;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    float: left;
+    margin: 10px 20px;
+    text-align: center;
+    border-radius: 10%;
+    border-top: 5px solid yellow;
+}
+.text-block-item3{
+    background-color: white;
+    border: 1px solid black;
+    width: 30%;
+    height: 210px;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    float: left;
+    margin: 10px 20px;
+    text-align: center;
+    border-radius: 10%;
+    border-top: 5px solid deepskyblue ;
+}
+.text-block-item4{
+    background-color: white;
+    border: 1px solid black;
+    width: 30%;
+    height: 210px;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    float: left;
+    margin: 10px 20px;
+    text-align: center;
+    border-radius: 10%;
+    border-top: 5px solid deepskyblue;
+}
+.text-block-item5{
+    background-color: white;
+    border: 1px solid black;
+    width: 30%;
+    height: 210px;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    float: left;
+    margin: 10px 20px;
+    text-align: center;
+    border-radius: 10%;
+    border-top: 5px solid blue;
+}
+.text-block-item6{
+    background-color: white;
+    border: 1px solid black;
+    width: 30%;
+    height: 210px;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    float: left;
+    margin: 10px 20px;
+    text-align: center;
+    border-radius: 10%;
+    border-top: 5px solid yellow;
+}
